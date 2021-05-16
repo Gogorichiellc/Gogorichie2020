@@ -1,0 +1,4 @@
+baseURL = "https://www.gogorichie.com"
+languageCode = "en-us"
+title = "The Random Thoughts of Richard Lewis"
+theme = "ananke"
